@@ -16,6 +16,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 </br>
+</br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartekKuzniewski)](https://github.com/anuraghazra/github-readme-stats)
