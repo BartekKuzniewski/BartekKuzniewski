@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+</br>
 
 
 - 🌱 I’m currently improving my skills in **JavaScript**
 - 🥅 2021 Goals: Find job as a Junior Front-End Developer
 
-</br>
 </br>
 
 ### Languages and Tools:
@@ -16,7 +16,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 
-</br>
 </br>
 
 
