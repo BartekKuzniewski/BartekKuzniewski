@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🌱 I’m currently improving my skills in **JavaScript**
+- 🥅 2021 Goals: Find job as Junior Front-End Developer
 
 <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
 
