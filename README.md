@@ -6,7 +6,6 @@
 - 🌱 I’m currently improving my skills in **JavaScript**
 - 🥅 2021 Goals: Find job as a Junior Front-End Developer
 
-</br>
 
 ### Languages and Tools:
 
